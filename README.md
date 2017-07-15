@@ -4,5 +4,6 @@ Repositorio destinado a los ejercicios y prácticas de C y Java que damos en la 
 
 ## Contenido
 
-Directorio ./C: Contiene las práticas de la asignatura de la programación en C orientada a sistemas
-Directorio ./Java: Contiene las práticas de la asignatura de la programación Java orientada a la concurrencia de tareas
+__Directorio ./C__: Contiene las práticas de la asignatura de la programación en C orientada a sistemas
+
+__Directorio ./Java__: Contiene las práticas de la asignatura de la programación Java orientada a la concurrencia de tareas
